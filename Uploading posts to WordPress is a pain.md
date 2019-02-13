@@ -1,5 +1,5 @@
 # Uploading posts to WordPress is a pain!
-Good god, I’ve been trying to find a better way to upload posts to WordPress instead of just copy and paste.
+Good god, I’ve been trying to find a better way to upload posts to WordPress instead of just copy and paste. 
 
 ## Context
 - I write my notes in either Apple’s Notes app or a new app I downloaded called Bear.
