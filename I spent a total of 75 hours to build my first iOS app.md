@@ -8,7 +8,7 @@ Here’s some reflection on my path to developing this app.
 
 ### Overall
 I spent 74 hours building Life Flips. This includes planning, drawing out sketches, developing / programming the app, and everything else.
-<img src https://www.dropbox.com/s/nzlfdm4dtbb8zrv/Screen%20Shot%202019-03-14%20at%2017.06.25.png?dl=0>
+![](/Photos/Screen Shot 2019-03-14 at 17.06.25.png)
 I use an app called Toggl to help me track my time. Anytime I start working on a project, I turn on Toggl to help me record where I am spending my time.
 So this 74 hours is dedicated work time. It doesn’t include bathroom breaks, lunch breaks, etc.
 
@@ -18,7 +18,7 @@ Surely, a professional iOS developer could have done this in a lot less time.
 
 It officially made it onto the App Store on 28 February 2019.
 However, only 14 days in, I only have about 15 downloads. (Also, 100% are from friends clicking the link that I forced onto them. None of them are from discovery in the App Store 😂)
-![](https://www.dropbox.com/s/sdr0t8buorl2pec/Screen%20Shot%202019-03-14%20at%2018.15.08.png?dl=0)
+![](/Photos/Screen Shot 2019-03-14 at 18.15.08.png)
 That’s not a great return-on-investment for my time building this app.
 Of course overtime hopefully I’ll have more downloads that can justify this up front cost.
 I suppose I should focus on marketing next.
@@ -41,9 +41,8 @@ Regardless, I’ll certainly have to spend a lot more time on this next time aro
 For example, I could do a better job demonstrating my apps usage. I could develop videos showing how to use it, explain what I use it for, what pain points it solves for me, etc.
 
 If I take a review of these screenshots, I can immediately see why it gets so little traction:
-![](https://www.dropbox.com/s/8zz48d40wbbeg6a/IMG_0202.png)
-![](https://www.dropbox.com/s/oh1x5kailbex9iz/IMG_0201.png?dl=0)
-![](https://www.dropbox.com/s/nvfa0alfsfjbfcw/IMG_0203.png?dl=0)
+![](/Photos/IMG_0202.png)
+![](/Photos/IMG_0201.png)
 ![](/Photos/IMG_0203.png)
 From these views, even I don’t get much of a sense of what this app is for.
 * How do I use it?
