@@ -8,7 +8,7 @@ Here’s some reflection on my path to developing this app.
 
 ### Overall
 I spent 74 hours building Life Flips. This includes planning, drawing out sketches, developing / programming the app, and everything else.
-![](/Photos/Screen Shot 2019-03-14 at 17.06.25.png)
+![]("/Photos/Screen Shot 2019-03-14 at 17.06.25.png")
 I use an app called Toggl to help me track my time. Anytime I start working on a project, I turn on Toggl to help me record where I am spending my time.
 So this 74 hours is dedicated work time. It doesn’t include bathroom breaks, lunch breaks, etc.
 
@@ -18,7 +18,7 @@ Surely, a professional iOS developer could have done this in a lot less time.
 
 It officially made it onto the App Store on 28 February 2019.
 However, only 14 days in, I only have about 15 downloads. (Also, 100% are from friends clicking the link that I forced onto them. None of them are from discovery in the App Store 😂)
-![](/Photos/Screen Shot 2019-03-14 at 18.15.08.png)
+![]("/Photos/Screen Shot 2019-03-14 at 18.15.08.png")
 That’s not a great return-on-investment for my time building this app.
 Of course overtime hopefully I’ll have more downloads that can justify this up front cost.
 I suppose I should focus on marketing next.
