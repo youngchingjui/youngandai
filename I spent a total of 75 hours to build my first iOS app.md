@@ -44,7 +44,7 @@ If I take a review of these screenshots, I can immediately see why it gets so li
 ![](https://www.dropbox.com/s/8zz48d40wbbeg6a/IMG_0202.png)
 ![](https://www.dropbox.com/s/oh1x5kailbex9iz/IMG_0201.png?dl=0)
 ![](https://www.dropbox.com/s/nvfa0alfsfjbfcw/IMG_0203.png?dl=0)
-![](/Photos/IMG-0203.png)
+![](/Photos/IMG_0203.png)
 From these views, even I don’t get much of a sense of what this app is for.
 * How do I use it?
 * What pain point does it solve?
