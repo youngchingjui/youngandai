@@ -1,5 +1,5 @@
-# I spent a total of 75 hours⌚️to build my first iOS app📱
-Reflections on building my first iOS app
+# I spent a total of 75 hours to build my first iOS app
+Reflections on building my first iOS app 📱
 #Projects/Life Flips# #review #reflections #iOS #programming #startup #blog 
 
 I developed an iOS app! 👨🏻‍💻
